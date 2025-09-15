@@ -1,2 +1,2 @@
 # Verification-of-APB-Protocol
-Designed a UVM-based self-checking testbench and created directed and randomized test cases to verify protocol functionality.
+This project features a self-checking UVM testbench architecture with a comprehensive test plan. It includes directed and constrained-random test cases to verify protocol functionality, along with protocol-specific drivers, monitors, and a scoreboard. Test execution is fully automated using a Bash regression script, and functional coverage is implemented with Cadence ICCR to achieve optimal verification goals.
