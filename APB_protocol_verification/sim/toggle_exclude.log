@@ -1,0 +1,7 @@
+tb_top.DUT.apb_sub_flop_en
+tb_top.DUT.u_address_flop.en
+tb_top.DUT.u_pwrite_flop.en
+tb_top.DUT.u_psel_flop.en
+tb_top.DUT.u_penable_flop.en
+tb_top.DUT.u_pwdata_flop.en
+tb_top.DUT.u_pready_flop.en

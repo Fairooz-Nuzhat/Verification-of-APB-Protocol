@@ -1,0 +1,3 @@
+set_expr_coverable_operators -all
+set_expr_coverable_statements -all
+set_toggle_excludefile exclude.txt

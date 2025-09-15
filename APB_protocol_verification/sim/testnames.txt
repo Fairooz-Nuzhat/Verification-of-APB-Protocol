@@ -1,0 +1,8 @@
+apb_reset_test
+apb_sequential_write_read_test
+apb_consecutive_write_read_test
+apb_random_write_read_test
+apb_checkerboard_test
+apb_aliasing_test
+apb_walking_test
+apb_override_test
