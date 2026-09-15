@@ -1,0 +1,4 @@
+*.html linguist-vendored
+*.log linguist-vendored
+APB_protocol_verification/sim/filelist.f linguist-vendored
+APB_protocol_verification/sim/html_10-25-2024_15~51~05/** linguist-vendored
